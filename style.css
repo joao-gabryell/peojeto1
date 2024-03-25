@@ -14,3 +14,20 @@
     display: inline-block;
     margin: 0 16px;
     }
+    .escola-image {
+      width: 25%;
+    }
+
+    .escola{
+        background-image: -moz-linear-gradient(#424E61,#4EBFE9);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .escola-div-conteudo{
+    width: 35%;
+
+    }
