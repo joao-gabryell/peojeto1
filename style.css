@@ -53,9 +53,9 @@ body {
 }
 
 .escola-icone {
-  width: 120px;
+  width: 24px;
 }
 
 .escola-div {
-  width: 24px;
+  align-items: center;
 }
