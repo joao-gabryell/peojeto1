@@ -69,3 +69,7 @@ escola-titulo {
   text-align: center;
   padding: 50px;
 }
+
+estudantes-todos{
+  display: grid;
+}
