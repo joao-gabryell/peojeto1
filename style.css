@@ -47,13 +47,13 @@ body {
 
 }
 
-ecola-titulo {
-  padding: 24px 0;
+escola-titulo {
+  padding: 35px 0;
 }
 
 
 .estudante-image {
-  width: 30px;
+  width: 120px;
 
 }
 
@@ -65,4 +65,3 @@ ecola-titulo {
   align-items: center;
 
 }
-
